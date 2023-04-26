@@ -1,6 +1,15 @@
 # Secure-Password-Generator
 - With this python3 program you can create secure passwords enjoy :)
-* Before running the script do this
-`pip3 install pwntools`
 
-- Use `python3 securepass.py`
+### Installing
+```bash
+$ git clone https://github.com/MikeRega7/Secure-Password-Generator
+$ cd Secure-Password-Generator
+$ pip3 install -r requirements.txt
+```
+
+### Running
+
+```bash
+$ python3 securepass.py
+```
